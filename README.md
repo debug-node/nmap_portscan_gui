@@ -121,4 +121,5 @@ Open Source - Free to use and modify
 
 ## Author
 
-Security enthusiast – Cyber Security Project
+Aditya Kumar  
+GitHub: [debug-node](https://github.com/debug-node)
